@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Sarina&display=swap');
+
+h1{
+    color: rgb(4, 0, 255);
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    font-family: arial, cursive;
+    font-size: 30px;
+    text-align: center;
+    margin-top: -45px;
+    margin-left: 55px; 
+    font-style: normal;
+}
+.small {
+    margin-top: -25px;  
+    margin-left: 52px;
+    font-size: 18px;
+    color: #1a00ff;
+    font-family: 'Bebas Neue', cursive;
+}
+
+.one,.two,.three,.four,.five{
+  margin-top: -45px;
+  margin-left: 75px;
+  display: inline-block;
+}
+
+fieldset{
+  height: 20px;
+   background-color: blue; 
+}
+.five{
+  color: white;
+  background-color: rgb(3, 3, 253);
+  border: 1px solid rgb(0, 0, 0) ;
+  border-radius: 10%;
+  height: 35px;
+  margin-top: -5px;
+  margin-left: 800px;
+}
+h4 a:active{
+  color: rgb(252, 248, 248);
+}
+h4 a{
+  color: black;
+  text-decoration: none;
+}
+.five:active{
+  color: rgb(2, 2, 2);
+  background-color: rgb(0, 0, 0);
+}
+
+h2{
+    color: rgb(0, 0, 0);
+    text-align: left;
+    position: sticky;
+    top: 0;
+}
+section p{
+    font-size: 18px;
+    word-spacing: 5px;
+    display: inline-block;
+    line-height: 20px;
+    text-indent: 60px;
+}
